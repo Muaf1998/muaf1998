@@ -1,61 +1,115 @@
-Hi, I'm Mo 👋
+# Hi, I'm Mo 👋
 
-I build AI systems, data pipelines, and developer tools that turn messy data into useful intelligence.
+🚀 AI Engineer | Data Engineer | LLM Systems Builder
 
-Most of my work is hands-on engineering — building production-style systems for LLMs, RAG pipelines, data infrastructure, and scalable AI workflows using Python, Docker, and Kubernetes.
+I build **AI systems, data pipelines, and developer tools** that transform raw data into intelligent applications.
 
-I focus on practical implementations that engineers can study, run, and extend.
+My work focuses on **LLMs, Retrieval-Augmented Generation (RAG), scalable AI infrastructure, and data engineering systems**.
 
-What I Work On
+---
 
-🤖 AI / LLM Systems
-Retrieval-Augmented Generation (RAG), AI assistants, embeddings, semantic search, evaluation pipelines
+## 🧠 What I Work On
 
-🧠 Data Engineering & ML Pipelines
-ETL systems, data pipelines, feature engineering, analytics workflows
+🔹 AI Agents & LLM Systems  
+🔹 Retrieval-Augmented Generation (RAG)  
+🔹 Vector Search & Embeddings  
+🔹 Data Engineering & ETL Pipelines  
+🔹 Scalable AI Infrastructure (Docker + Kubernetes)  
+🔹 AI-powered Knowledge Systems  
 
-⚙️ Scalable AI Infrastructure
-Dockerized microservices, Kubernetes orchestration, autoscaling AI workloads
+---
 
-🔎 Search & Knowledge Systems
-Vector search, Pinecone, knowledge retrieval pipelines, document Q&A systems
+## ⚙️ Tech Stack
 
-🧩 Automation & AI Workflows
-LangChain pipelines, agent workflows, API integrations, developer tooling
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
 
-📊 Analytics & Decision Systems
-Data analysis, experimentation frameworks, marketing analytics, KPI dashboards
+### Data Engineering
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-orange?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
-Current Focus
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
 
-Building AI knowledge assistants powered by RAG
+### Search / AI Systems
+![Pinecone](https://img.shields.io/badge/Pinecone-vector%20db-green?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-AI%20Systems-purple?style=for-the-badge)
 
-Developing scalable LLM pipelines with Docker + Kubernetes
+---
 
-Creating tools that make data and AI systems easier to build and deploy
+## 🔬 Featured Projects
 
-Exploring agentic AI workflows and production LLM architectures
+### 🧠 Scalable LLM Knowledge Assistant
+RAG-powered AI assistant that answers questions from document collections.
 
-About Me
+Features:
+- Semantic search using embeddings
+- Pinecone vector database
+- LangChain orchestration
+- Dockerized microservices
+- Kubernetes scalable deployment
 
-🎓 Master’s in Information (Data Science) — University of Wisconsin–Madison
+---
 
-💼 Former Senior Analyst at iQuanti
+### 📊 DataForge Hub
+A platform for aspiring **data engineers and analysts** to learn practical skills.
 
-📊 Background in data engineering, analytics, and machine learning
+Includes:
+- Data engineering resources
+- Real-world project guides
+- Analytics tutorials
+- AI and ML workflow examples
 
-🛠 Passionate about building real AI systems — not just prototypes
+---
 
-Interests
+### ⚙️ Automated Job Intelligence System
+AI-powered workflow that:
 
-AI Engineering
+- Scrapes job listings
+- Extracts requirements
+- Tailors resumes automatically
+- Sends automated applications
 
-LLM Systems
+Built using:
+Python • AI APIs • Automation workflows
 
-Data Engineering
+---
 
-Search & Knowledge Systems
+## 📊 GitHub Stats
 
-Developer Tools
+![Mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
-⭐ I enjoy building things that bridge data engineering and modern AI systems.
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github)
+
+---
+
+## 🎓 About Me
+
+🎓 Master's in Information (Data Science)  
+University of Wisconsin–Madison  
+
+💼 Former **Senior Analyst @ iQuanti**
+
+I specialize in building **real-world AI systems that combine data engineering with modern LLM architectures.**
+
+---
+
+## 🌎 Connect With Me
+
+LinkedIn  
+Portfolio / Website  
+Email  
+
+---
+
+⭐ Always exploring new ideas in **AI systems, LLM infrastructure, and scalable data platforms.**
